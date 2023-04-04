@@ -1,0 +1,14 @@
+{
+  "name": "asd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "static_server.js",
+  "scripts": {
+    "start": "node static_server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  }
+}
